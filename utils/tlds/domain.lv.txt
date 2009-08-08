@@ -1,0 +1,33 @@
+
+% Information from TLD .lv whois service.
+% Please visit http://www.nic.lv/DNS/ for more information.
+
+domain:       google.lv
+descr:        Google, Inc.
+admin-c:      9370-LUMII
+tech-c:       14442-LUMII
+nserver:      ns1.google.com
+nserver:      ns2.google.com
+nserver:      ns3.google.com
+nserver:      ns4.google.com
+changed:      dns-reg@nic.lv 20090610
+source:       LUMII
+
+person:       <hidden>
+address:      none
+phone:        +1-925-685-9600
+fax-no:       +1-925-685-9620
+e-mail:       hostmaster@alldomains.com
+nic-hdl:      14442-LUMII
+source:       LUMII
+
+person:       <hidden>
+address:      none
+phone:        +1 650 330 0100
+fax-no:       +1 650 618 1499
+e-mail:       dns-admin@google.com
+nic-hdl:      9370-LUMII
+source:       LUMII
+
+
+

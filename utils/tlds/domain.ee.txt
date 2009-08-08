@@ -1,0 +1,27 @@
+
+The registry database contains only .EE, .COM.EE, .PRI.EE, .FIE.EE,
+.ORG.EE and .MED.EE domains.
+
+Registrant:
+   Advokaadibüroo Sorainen OÜ
+   Pärnu mnt.15 Tallinn, Harjumaa 10141
+   TEL +372 6400 900
+   FAX +372 6400 901
+
+   Domain Name: google.ee
+
+   Contacts:
+      Mart Meier      mart.meier@sorainen.ee
+      Joshua Hopping      ccops@markmonitor.com
+
+   Record created on 22-Apr-2003
+   Record changed on 30-Aug-2006
+
+   Domain servers:
+      ns2.google.com
+      ns1.google.com
+
+Registrar: EENET
+URL: http://www.eenet.ee/EENet/dom_reeglid.html (in estonian)
+URL: http://www.eenet.ee/EENet/ee-tldomreg.html
+

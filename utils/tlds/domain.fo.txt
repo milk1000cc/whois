@@ -1,0 +1,34 @@
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: This output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to 'PORTAL.FO'
+
+domain:       PORTAL.FO
+descr:        FAROESE TELECOM
+admin-c:      PWJ6-RIPE
+tech-c:       PWJ6-RIPE
+zone-c:       PWJ6-RIPE
+nserver:      NS1.OLIVANT.FO
+nserver:      NS2.OLIVANT.FO
+mnt-by:       FO-DOMREG
+source:       RIPE # Filtered
+
+person:         Pall Wiberg Joensen
+address:        FT SAMSKIFTI
+address:        KLINGRAN 1 - 5, BOX 27
+address:        FO-110     TORSHAVN
+address:        FAROE ISLANDS
+phone:          +298 303030
+fax-no:         +298 303031
+e-mail:         P-WIBERG@POST.OLIVANT.FO
+nic-hdl:        PWJ6-RIPE
+mnt-by:         FO-DOMREG
+source:         RIPE # Filtered
+
+

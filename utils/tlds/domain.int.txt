@@ -1,0 +1,67 @@
+
+IANA Whois Service
+Domain: who.int
+ID: who-int
+
+Registrant:
+    Name: 
+    Organization: World Health Organization (WHO)
+    Address1: 20, Avenue Appia
+    Address2: Geneva 27
+    Address3: 
+    City: Geneva
+    State/Province: Geneva
+    Country: Switzerland
+    Postal Code: CH-1211
+    Phone: 
+    Fax: 
+    Email: 
+    Registration Date: 10-September-2001
+    Last Updated Date: 22-June-2007
+
+Administrative Contact:
+    Name: WHO-HQ-NOC (at ITS/NTS)
+    Organization: 
+    Address1: 20, Avenue Appia
+    Address2: Geneva 27
+    Address3: 
+    City: Geneva
+    State/Province: 
+    Country: Switzerland
+    Postal Code: CH-1211
+    Phone: +41 22 791 2411
+    Fax: +41 22 791 4779
+    Email: hostmaster@who.int
+    Registration Date: 10-September-2001
+    Last Updated Date: 01-February-2006
+
+Technical Contact:
+    Name: WHO-HQ-NOC (at ITS/NTS)
+    Organization: 
+    Address1: 20, Avenue Appia
+    Address2: Geneva 27
+    Address3: 
+    City: Geneva
+    State/Province: 
+    Country: Switzerland
+    Postal Code: CH-1211
+    Phone: +41 22 791 2411
+    Fax: +41 22 791 4779
+    Email: hostmaster@who.int
+    Registration Date: 10-September-2001
+    Last Updated Date: 01-February-2006
+
+Nameserver Information:
+    Nameserver: whqdns1.who.int.
+    IP Address: 158.232.12.5
+    Nameserver: whqdns2.who.int.
+    IP Address: 158.232.12.6
+    Nameserver: whqdns3.who.int.
+    IP Address: 193.220.114.96
+    Nameserver: ext-dns-2.cern.ch.
+    IP Address: 192.91.245.85
+    Nameserver: ns1.wpro.who.int.
+    IP Address: 123.176.64.11
+
+Registration Date: 05-June-1998
+Last Updated Date: 22-June-2007

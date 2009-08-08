@@ -1,0 +1,45 @@
+Domain name:           cica.ca
+Domain status:         EXIST
+Domain number:         8985
+Approval date:         2000/10/03
+Renewal date:          2011/05/02
+Updated date:          2009/06/15
+
+Registrar:
+    Name:              Internic.ca Corp.
+    Number:            29
+
+Registrant:
+    Name:              Canadian Institute of Chartered Accountants
+    Number:            8985
+
+Administrative contact:
+    Name:              John Shardalow
+    Job Title:         Webmaster
+    Postal address:    Canadian Institute of Chartered Accountants
+                       277 Wellington Street West 
+                       Toronto ON M5V 3H2 Canada 
+    Phone:             +1 416 204 3258
+    Fax:               +1 416 977 8585
+    Email:             john.shardalow@cica.ca
+
+Technical contact:
+    Name:              Helene Scully
+    Job Title:         Network Administrator
+    Postal address:    The Canadian Institute of Chartered Accountants (NFP)
+                       277 Wellington Street West 
+                       Toronto ON M5V 3H2 Canada 
+    Phone:             +1 416 204 3360
+    Fax:               +1 416 977 8585
+    Email:             helene.scully@cica.ca
+
+Name servers:
+    ns.cica.ca                     198.235.184.1
+    dns2.tidc.telus.com            209.202.110.121
+
+% WHOIS look-up made at 2009-07-14 15:13:31 (GMT)
+%
+% Use of CIRA's WHOIS service is governed by the Terms of Use in its Legal
+% Notice, available at http://www.cira.ca/legal-notice/?lang=en 
+%
+% (c) 2007 Canadian Internet Registration Authority, (http://www.cira.ca/) 

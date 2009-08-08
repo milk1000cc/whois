@@ -1,0 +1,48 @@
+
+query: google.kr
+
+# KOREAN
+
+도메인이름                : google.kr
+등록인                    : 구글코리아유한회사
+등록인 주소               : 서울특별시 강남구 삼성1동 아셈타워 37층
+등록인 우편번호           : 135798
+책임자                    : Domain Admin
+책임자 전자우편           : dns-admin@google.com
+책임자 전화번호           : 02-557-4259
+등록일                    : 2007. 03. 02.
+최근 정보 변경일          : 2007. 10. 06.
+사용 종료일               : 2010. 03. 02.
+정보공개여부              : Y
+등록대행자                : (주)후이즈(http://whois.co.kr)
+
+1차 네임서버 정보
+   호스트이름             : ns1.google.com
+
+2차 네임서버 정보
+   호스트이름             : ns2.google.com
+
+네임서버 이름이 .kr이 아닌 경우는 IP주소가 보이지 않습니다.
+
+# ENGLISH
+
+Domain Name               : google.kr
+Registrant                : Google Korea, LLC
+Registrant Address        : 37th Floor Asem Tower, Samsong 1-dong, Kangnam-gu, Seoul
+Registrant Zip Code       : 135798
+Administrative Contact(AC): Domain Admin
+AC E-Mail                 : dns-admin@google.com
+AC Phone Number           : 02-557-4259
+Registered Date           : 2007. 03. 02.
+Last updated Date         : 2007. 10. 06.
+Expiration Date           : 2010. 03. 02.
+Publishes                 : Y
+Authorized Agency         : Whois Corp.(http://whois.co.kr)
+
+Primary Name Server
+   Host Name              : ns1.google.com
+
+Secondary Name Server
+   Host Name              : ns2.google.com
+
+

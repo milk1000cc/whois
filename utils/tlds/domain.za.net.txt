@@ -1,0 +1,44 @@
+
+Domain Name            : aquaria.za.net
+
+Registered for         : Stephen Kew
+                         PO Box 2119
+                         Edenvale
+                         1610
+                         South Africa
+
+Administrative Contact : Stephen Kew <stephen.kew@gmail.com>
+                         Private
+                         PO Box 2119
+                         Edenvale
+                         Gauteng
+                         1610
+                         South Africa
+                         +27 11 709 4333
+                         +27 11 793 1606
+
+Technical Contact      : Stephen Kew <stephen.kew@gmail.com>
+                         Private
+                         PO Box 2119
+                         Edenvale
+                         Gauteng
+                         1610
+                         South Africa
+                         +27 11 709 4333
+                         +27 11 793 1606
+
+Record Created         : Wed Jul  2 22:43:32 BST 2003
+Record Last Updated    : Fri Feb 10 09:42:05 GMT 2006
+Database Last Updated  : Tue Jul 14 16:01:19 BST 2009
+
+Domain Name Servers listed in order:
+
+  dns.site5.com                                       
+  dns2.site5.com                                      
+                                                      
+
+The ZA NiC whois service contains ONLY information relating to the registration
+or availability of Internet domain names under the ZA.NET and ZA.ORG namespace.
+Online registration of ZA NiC domains can be made using the automated tool
+available at http://www.za.net/
+

@@ -1,0 +1,29 @@
+status:1
+
+Domain is Registered.
+
+Registered Nameservers
+----------------------
+ns4.google.com.
+ns1.google.com.
+ns2.google.com.
+ns3.google.com.
+
+
+This Domain Availability Checker (DAC) facility has been made available 
+for non-commercial use only by the general public to check whether 
+internet names are registered in the Domain Name System. (Please be aware 
+that some names for which no information is found may be reserved, or 
+otherwise unavailable for registration). No warranty is made 
+regarding accuracy and no reliance is intended upon query results.
+
+IMPORTANT NOTE: you are not authorised to access this service except under
+the conditions that are published at http://www.channelisles.net, which 
+include restrictions and prohibitions on redistributing, repackaging or 
+reusing search results in connection with advertising, on presenting 
+search results without showing this notice, and on making high volume 
+queries without permission of the rights holder. 
+
+Copyright (c) 1996-2009. All copyright and database rights in the register 
+of second-level .GG and .JE domain names are owned by Island Networks Ltd 
+and Island Networks (Jersey) Ltd respectively. See http://www.channelisles.net 

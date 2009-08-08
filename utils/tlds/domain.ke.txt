@@ -1,0 +1,78 @@
+
+% Copyright KENIC
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to domain name registrations.
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2009-07-14 18:09:51 (EAT +03:00)
+
+domain:      GOOGLE.CO.KE
+owner:       Google Inc.
+ownerid:     KE-GOIN1-KENIC
+responsible: DNS Admin
+address:     E. Bayshore Pkwy, 2400, 
+address:     94043 - Mountain View - CA
+country:     US
+phone:       +1 650 3300100 []
+owner-c:     GOI
+admin-c:     GOI
+tech-c:      DOB2
+billing-c:   NOL
+nserver:     NS1.GOOGLE.COM  
+nsstat:      20090714 AA
+nslastaa:    20090714
+nserver:     NS2.GOOGLE.COM  
+nsstat:      20090714 NOT SYNC ZONE
+nslastaa:    20090714
+nserver:     NS3.GOOGLE.COM  
+nsstat:      20090714 NOT SYNC ZONE
+nslastaa:    20090714
+nserver:     NS4.GOOGLE.COM  
+nsstat:      20090714 AA
+nslastaa:    20090714
+created:     20030418
+updated:     20030821
+changed:     20081105
+expiry:      20100101
+status:      published
+
+ke-nic-hdl:  DOB2
+person:      Domain Billing
+e-mail:      ccops@MARKMONITOR.COM
+address:     PMB 155, 10400 Overland Road, 10400, 
+address:     83709 - Boise - ID
+country:     US
+phone:       +1 208) 3895740 []
+created:     20030821
+changed:     20040611
+
+ke-nic-hdl:  GOI
+person:      Google Inc.
+e-mail:      dns-admin@GOOGLE.COM
+address:     E. Bayshore Pkwy, 2400, 
+address:     94043 - Mountain View - CA
+country:     US
+phone:       +1 650) 3300100 []
+created:     20030821
+changed:     20061115
+
+ke-nic-hdl:  NOL
+person:      Nairobinet Online Ltd
+e-mail:      domains@NBNET.CO.KE
+address:     19th flr AMBANK HSE. - University Way, 10, 
+address:     61758 - Nairobi - NB
+country:     KE
+phone:       +254 20) 318468/98 []
+created:     20030804
+changed:     20080915
+
+remarks:     Security issues should also be addressed to
+remarks:     noc@kenic.or.ke
+remarks:     Mail abuse issues should also be addressed to
+remarks:     abuse@kenic.or.ke
+ 
+% whois.kenic.or.ke accepts only direct match queries.
+% Types of queries are: domains (.KE) and POCs.
+
+

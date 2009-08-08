@@ -1,0 +1,159 @@
+DotAsia WHOIS LEGAL STATEMENT AND TERMS & CONDITIONS: The WHOIS service offered    
+by DotAsia and the access to the records in the DotAsia WHOIS database are provided
+for information purposes only. It allows persons to check whether a specific       
+domain name is still available or not and to obtain information related to         
+the registration records of existing domain names. DotAsia cannot, under any       
+circumstances, be held liable in case the stored information would prove to        
+be wrong, incomplete, or not accurate in any sense.  By submitting a query         
+you agree not to use the information made available to: allow, enable or           
+otherwise support the transmission of unsolicited, commercial advertising or       
+other solicitations whether via email or otherwise; target advertising in any      
+possible way; or to cause nuisance in any possible way to the registrants by       
+sending (whether by automated, electronic processes capable of enabling high       
+volumes or other possible means) messages to them.  Without prejudice to the       
+above, it is explicitly forbidden to extract, copy and/or use or re-utilise        
+in any form and by any means (electronically or not) the whole or a                
+quantitatively or qualitatively substantial part of the contents of the WHOIS      
+database without prior and explicit permission by DotAsia, nor in any attempt      
+hereof, or to apply automated, electronic processes to DotAsia (or its systems).   
+You agree that any reproduction and/or transmission of data for commercial         
+purposes will always be considered as the extraction of a substantial part of      
+the content of the WHOIS database. By submitting the query you agree to abide      
+by this policy and accept that DotAsia can take measures to limit the use of its   
+WHOIS services in order to protect the privacy of its registrants or the           
+integrity of the database.  
+
+Domain ID:D997029-ASIA
+Domain Name:KEEPCLICKING.ASIA
+Domain Create Date:16-Sep-2008 08:06:20 UTC
+Domain Expiration Date:16-Sep-2009 08:06:20 UTC
+Domain Last Updated Date:16-Nov-2008 02:55:31 UTC
+Last Transferred Date:
+IPR Name:
+IPR Number:
+IPR CC Locality:
+IPR Applied:
+IPR Registered:
+IPR Class:
+IPR form:
+IPR Entitlement:
+IPR Type:
+Created by:0101 Internet Inc. R84-ASIA (816)
+Last Updated by Registrar:0101 Internet Inc. R84-ASIA (816)
+Sponsoring Registrar:0101 Internet Inc. R84-ASIA (816)
+Registration Agent ID:
+Registration Agent Name:
+Registration Agent Organization:
+Registration Agent Address:
+Registration Agent Address2:
+Registration Agent Address3:
+Registration Agent City:
+Registration Agent State/Province:
+Registration Agent Country/Economy:
+Registration Agent Postal Code:
+Registration Agent Phone:
+Registration Agent Phone Ext.:
+Registration Agent FAX:
+Registration Agent FAX Ext.:
+Registration Agent E-mail:
+Maintainer URL:
+Domain Status:OK
+Registrant ID:DI_8258514
+Registrant Name:Ping Wong
+Registrant Organization:DotAsia Organisation Limited
+Registrant Address:Unit 617, Miramar Tower,
+Registrant Address2:132 Nathan Road,
+Registrant Address3:Tsim Sha Tsui,
+Registrant City:Hong Kong
+Registrant State/Province:Hong Kong
+Registrant Country/Economy:HK
+Registrant Postal Code:00852
+Registrant Phone:+1.35202635
+Registrant Phone Ext.:
+Registrant FAX:+1.35202634
+Registrant FAX Ext.:
+Registrant E-mail:info@registry.asia
+Administrative ID:DI_8258514
+Administrative Name:Ping Wong
+Administrative Organization:DotAsia Organisation Limited
+Administrative Address:Unit 617, Miramar Tower,
+Administrative Address2:132 Nathan Road,
+Administrative Address3:Tsim Sha Tsui,
+Administrative City:Hong Kong
+Administrative State/Province:Hong Kong
+Administrative Country/Economy:HK
+Administrative Postal Code:00852
+Administrative Phone:+1.35202635
+Administrative Phone Ext.:
+Administrative FAX:+1.35202634
+Administrative FAX Ext.:
+Administrative E-mail:info@registry.asia
+Technical ID:DI_8258514
+Technical Name:Ping Wong
+Technical Organization:DotAsia Organisation Limited
+Technical Address:Unit 617, Miramar Tower,
+Technical Address2:132 Nathan Road,
+Technical Address3:Tsim Sha Tsui,
+Technical City:Hong Kong
+Technical State/Province:Hong Kong
+Technical Country/Economy:HK
+Technical Postal Code:00852
+Technical Phone:+1.35202635
+Technical Phone Ext.:
+Technical FAX:+1.35202634
+Technical FAX Ext.:
+Technical E-mail:info@registry.asia
+Billing ID:DI_8258514
+Billing Name:Ping Wong
+Billing Organization:DotAsia Organisation Limited
+Billing Address:Unit 617, Miramar Tower,
+Billing Address2:132 Nathan Road,
+Billing Address3:Tsim Sha Tsui,
+Billing City:Hong Kong
+Billing State/Province:Hong Kong
+Billing Country/Economy:HK
+Billing Postal Code:00852
+Billing Phone:+1.35202635
+Billing Phone Ext.:
+Billing FAX:+1.35202634
+Billing FAX Ext.:
+Billing E-mail:info@registry.asia
+CED ID:DI_8258514
+CED CC Locality:HK
+CED State/Province:
+CED City:
+CED Type of Legal Entity:Corporations or Companies
+CED Type (Other):
+CED Form of Identification:Certificate of Incorporation or equivalent business registration certificate
+CED Form of ID (Other):
+CED Identification Number:37221730
+Operations and Notifications ID:
+Operations and Notifications Name:
+Operations and Notifications Organization:
+Operations and Notifications Address:
+Operations and Notifications Address2:
+Operations and Notifications Address3:
+Operations and Notifications City:
+Operations and Notifications State/Province:
+Operations and Notifications Country/Economy:
+Operations and Notifications Postal Code:
+Operations and Notifications Phone:
+Operations and Notifications Phone Ext.:
+Operations and Notifications FAX:
+Operations and Notifications FAX Ext.:
+Operations and Notifications E-mail:
+Nameservers:NS1.DOTASIA.ORG
+Nameservers:NS2.DOTASIA.ORG
+Nameservers: 
+Nameservers: 
+Nameservers: 
+Nameservers: 
+Nameservers: 
+Nameservers: 
+Nameservers: 
+Nameservers: 
+Nameservers: 
+Nameservers: 
+Nameservers: 
+
+

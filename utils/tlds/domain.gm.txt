@@ -1,0 +1,47 @@
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: This output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to 'google.gm'
+
+domain:         google.gm
+descr:          Google, Inc
+admin-c:        DA946-RIPE
+tech-c:         TM2472-RIPE
+zone-c:         TM2472-RIPE
+nserver:        ns1.netnames.net
+nserver:        ns2.netnames.net
+mnt-by:         GM-TLD-MNT
+remarks:        Unmaintained sub domain object.
+remarks:        Parent TLD object maintainer added by RIPE NCC.
+remarks:        For more information see:
+remarks:        http://www.ripe.net/db/support/security/domain/syntax.html
+source:         RIPE # Filtered
+
+person:       Domain Administrator
+address:      Google, Inc.
+address:      165 University Avenue
+address:      Palo Alto, CA 94301 USA
+phone:        +1 650 3300100
+fax-no:       +1 650 6181499
+e-mail:       ray@google.com
+nic-hdl:      DA946-RIPE
+source:       RIPE # Filtered
+
+person:       Tech Manager
+address:      Google, Inc.
+address:      165 University Avenue
+address:      Palo Alto, CA 94301
+address:      USA
+phone:        +1 650 330 0100 1005
+fax-no:       +1 650 618 1499
+e-mail:       tech@google.com
+nic-hdl:      TM2472-RIPE
+source:       RIPE # Filtered
+
+

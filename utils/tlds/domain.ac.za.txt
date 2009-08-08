@@ -1,0 +1,41 @@
+This is TENET's AC.ZA WhoIs service. (v1.0.22)
+
+Query: /unisa.ac.za/
+
+==========================================
+Domain = UNISA.AC.ZA
+
+University of South Africa: UNISA campuses
+
+  PO Box 392
+  Pretoria
+  0003
+
+Administrative Contact for DNS
+  Mr Jan van der Zwan 
+  PO Box 392
+  Pretoria
+  0003
+
+
+  Tel: 012 4293366
+  Fax: 012 4293394
+  vdzwaj@unisa.ac.za
+
+Technical contact for DNS
+  Ms Amanda Pretorius 
+  PO Box 392
+  Pretoria
+  0003
+
+
+  Tel: 021 429 2459
+  PRETOA@unisa.ac.za
+
+Domain Name Servers:
+  mopanie.unisa.ac.za    163.200.97.117
+  ns1.tsa.ac.za    196.21.49.20
+  risc.unisa.ac.za    163.200.97.20
+  risc1.unisa.ac.za    163.200.97.131
+
+********* E N D *********

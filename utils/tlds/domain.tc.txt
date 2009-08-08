@@ -1,0 +1,18 @@
+Yes
+biz.tc is registered.
+
+Domain Name:               biz.tc
+
+Registrant, Technical Contact, Billing Contact, Admin. Contact
+  OXWELL CONSOLIDATED CORP.
+  Attn: BIZ.TC domain, PO Box 3321, Road Town, Tortola
+  British Virgin islands
+  E-mail:                  dom.corp@nospam.com.ru
+  Phone:                   +44.7077087979
+  Fax:                     +44.7077087997
+
+Resource Records (2):
+                           ns      east.webhosts.com.ru    
+                           ns      west.webhosts.com.ru    
+
+

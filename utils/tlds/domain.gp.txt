@@ -1,0 +1,33 @@
+swhoisd 3.0.5
+Searching for google.gp.  Found 3 record(s) matching google.gp.
+
+Domain:                   (Handle google-DOM)
+Name:                     google
+Domain Name:              google.com.gp
+Name Server 1:            ns1.google.com.
+Name Server 2:            ns2.google.com.
+Name Server 3:            ns3.google.com.
+Name Server 4:            ns4.google.com.
+Technical Contact:        MarkMonitor Provisioning, Domain
+Administrative Contact:   Google Admin Domain
+
+Person:                   (Handle google-tech)
+Name:                     MarkMonitor Provisioning, Domain
+Domain Name:              google.com.gp
+Email address:            .ccops@markmonitor.com
+Address:                  .MarkMonitor Inc. 
+Address:                  .PMB 155,10400 Overland Road 
+Address:                  .Boise 
+Telephone:                .1.2083895740 
+
+Person:                   (Handle google-admin)
+Name:                     Google Admin Domain
+Domain Name:              google.com.gp
+Email address:            .dns-admin@google.com
+Address:                  .Google Inc 
+Address:                  .1600 Amphitheatre Parkway 
+Address:                  .Mountain View 
+Telephone:                .1.650-253-0000 
+
+To single out one record, look it up with "!XXX", where XXX is the handle
+

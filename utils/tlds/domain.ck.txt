@@ -1,0 +1,45 @@
+
+domain:      oyster.net.ck
+descr:       Telecom Cook Islands
+descr:       PO Box 106
+descr:       Rarotonga
+descr:       CK
+admin-c:     JW1-CKNIC
+tech-c:      ODA1-CKNIC
+zone-c:      JW1-CKNIC
+billing-c:   JW1-CKNIC
+nserver:     parau.oyster.net.ck 202.65.32.128
+nserver:     poiparau.oyster.net.ck 202.65.32.127
+mnt-by:      CK-NIC-MNT
+mnt-by:      CK-NIC-MNT
+changed:     joe@telecom.co.ck 20050811
+source:      CKNIC
+
+role:        Oyster DNS Admin
+address:     Telecom Cook Islands Ltd.
+address:     P.O. Box 106
+address:     Rarotonga
+address:     CK
+e-mail:      soa@oyster.net.ck
+admin-c:     RM1-CKNIC
+tech-c:      RM1-CKNIC
+nic-hdl:     ODA1-CKNIC
+mnt-by:      CK-NIC-MNT
+changed:     robert@telecom.co.ck 19990420
+source:      CKNIC
+
+person:      Joe Wichman
+address:     Telecom Cook Islands
+address:     P.O. Box 106
+address:     Rarotonga
+address:     CK
+phone:       +682 29680
+fax-no:      +682 26174
+e-mail:      joe@telecom.co.ck
+nic-hdl:     JW1-CKNIC
+mnt-by:      CK-NIC-MNT
+changed:     mark@mcs.vuw.ac.nz 19981201
+changed:     mark@mcs.vuw.ac.nz 19990317
+source:      CKNIC
+
+

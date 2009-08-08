@@ -1,0 +1,31 @@
+
+Domain:
+	statistics.gov.uk
+
+Registered For:
+	Government Statistical Service
+
+Domain Owner:
+	Office for National Statistics
+
+Registered By:
+	BBC Technology (Siemens Group)
+
+Servers:
+	ns.bbc.co.uk	
+	ns1.thdo.bbc.co.uk	
+	ns1.thny.bbc.co.uk	
+	ns1.thls.bbc.co.uk	
+
+Registrant Address:
+	United Kingdom
+
+Renewal date:
+	Thursday 16th Dec 2010
+
+Entry updated:
+	Tuesday 2nd December 2008
+
+Entry created:
+	Wednesday 17th September 2003
+

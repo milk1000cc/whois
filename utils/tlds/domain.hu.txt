@@ -1,0 +1,65 @@
+% Whois server 1.99C
+
+Rights restricted by copyright. Szerzõi jog fenntartva.
+-Legal usage of this service requires that you agree to
+abide by the rules and conditions set forth at
+http://www.domain.hu/domain/English/domainsearch/feltetelek.html
+-A szolgaltatas csak a
+http://www.domain.hu/domain/domainsearch/feltetelek.html címen
+elérhetõ feltételek elfogadása és betartása mellett
+használható legálisan.
+
+domain:         google.hu
+org:            org_name_eng: Google, Inc.
+org:            org_name_hun: Google, Inc.
+address:        Amphitheatre Pkwy 1600.
+address:        CA-94043 Mountain View
+address:        US
+phone:          +1 650 253 0000
+fax-no:         +1 650 253 0001
+hun-id:         0000219547
+admin-c:        2000544020
+tech-c:         2000542333
+zone-c:         2000542333
+nameserver:     ns1.google.com
+nameserver:     ns2.google.com
+nameserver:     ns4.google.com
+nameserver:     ns3.google.com
+registered:     2000.03.25 23:20:39
+changed:        2006.08.28 17:42:14
+registrar:      1950518001
+
+person:         Gódor Zsolt
+address:        Rákóczi tér 6
+address:        1084 Budapest
+address:        HU
+phone:          +362102117
+fax-no:         +362101249
+hun-id:         2000544020
+
+person:         Gódor Zsolt
+address:        Rákóczi tér 6
+address:        1084 Budapest
+address:        HU
+phone:          +36 1 48 48 100
+fax-no:         +36 1 210 12 49
+e-mail:         zsgodor@menthanet.hu
+hun-id:         2000542333
+
+person:         Gódor Zsolt
+address:        Rákóczi tér 6
+address:        1084 Budapest
+address:        HU
+phone:          +36 1 48 48 100
+fax-no:         +36 1 210 12 49
+hun-id:         2000542333
+
+org:            org_name_eng: Nordtelekom Ltd.
+org:            org_name_hun: Nordtelekom Kft. (Registrar)
+address:        Vármegye utca 3-5.
+address:        1052 Budapest
+address:        HU
+phone:          +36 1 48 48 100
+fax-no:         +36 1 48 48 101
+hun-id:         1950518001
+

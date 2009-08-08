@@ -1,0 +1,36 @@
+
+Domain:
+	jobs.ac.uk
+
+Registered For:
+	Warwick University Services Limited, jobs.ac.uk Division
+
+Domain Owner:
+	Warwick University Services Limited, jobs.ac.uk Division
+
+Registered By:
+	Eduserv
+
+Servers:
+	dns0.eduserv.net	
+	dns1.eduserv.net	
+	dns2.eduserv.net	
+
+Registrant Contact:
+	jobs.ac.uk Division
+
+Registrant Address:
+	University of Warwick
+	Coventry
+	CV4 7AL
+	United Kingdom
+	+44 2476 572 839 (Phone)
+	+44 2476 572 946 (FAX)
+	enquiries@jobs.ac.uk
+
+Entry updated:
+	Wednesday 5th March 2008
+
+Entry created:
+	Friday 7th November 2003
+

@@ -1,0 +1,98 @@
+Access to CCTLD WHOIS information is provided to assist persons in 
+determining the contents of a domain name registration record in the 
+Afilias registry database. The data in this record is provided by 
+Afilias Limited for informational purposes only, and Afilias does not 
+guarantee its accuracy.  This service is intended only for query-based 
+access. You agree that you will use this data only for lawful purposes 
+and that, under no circumstances will you use this data to: (a) allow, 
+enable, or otherwise support the transmission by e-mail, telephone, or 
+facsimile of mass unsolicited, commercial advertising or solicitations 
+to entities other than the data recipient's own existing customers; or 
+(b) enable high volume, automated, electronic processes that send 
+queries or data to the systems of Registry Operator, a Registrar, or 
+Afilias except as reasonably necessary to register domain names or 
+modify existing registrations. All rights reserved. Afilias reserves 
+the right to modify these terms at any time. By submitting this query, 
+you agree to abide by this policy. 
+
+Domain ID:D45613-LRCC
+Domain Name:AJUNTAMENT.GI
+Created On:10-Dec-1997 05:00:00 UTC
+Last Updated On:10-Dec-2008 19:25:48 UTC
+Expiration Date:10-Dec-2009 05:00:00 UTC
+Sponsoring Registrar:GibNet Registrar (R43-LRCC)
+Status:OK
+Registrant ID:AJ2-NIC
+Registrant Name:N/A
+Registrant Organization:Ajuntament de Girona
+Registrant Street1:P1. del Vi, 1 17001 Girona
+Registrant Street2:
+Registrant Street3:
+Registrant City:N/A
+Registrant State/Province:
+Registrant Postal Code:N/A
+Registrant Country:ES
+Registrant Phone:+34.34972419033
+Registrant Phone Ext.:
+Registrant FAX:+34.34972419499
+Registrant FAX Ext.:
+Registrant Email:mrovira@ajgirona.org
+Admin ID:AJ2-NIC
+Admin Name:N/A
+Admin Organization:Ajuntament de Girona
+Admin Street1:P1. del Vi, 1 17001 Girona
+Admin Street2:
+Admin Street3:
+Admin City:N/A
+Admin State/Province:
+Admin Postal Code:N/A
+Admin Country:ES
+Admin Phone:+34.34972419033
+Admin Phone Ext.:
+Admin FAX:+34.34972419499
+Admin FAX Ext.:
+Admin Email:mrovira@ajgirona.org
+Billing ID:GR12-NIC
+Billing Name:Xavier Tarres i Busquets
+Billing Organization:GRN Serveis Telematics, SL
+Billing Street1:P1. Assumpcio, 35 17005 Girona
+Billing Street2:
+Billing Street3:
+Billing City:N/A
+Billing State/Province:
+Billing Postal Code:N/A
+Billing Country:ES
+Billing Phone:+34.34972230000
+Billing Phone Ext.:
+Billing FAX:+34.34972401185
+Billing FAX Ext.:
+Billing Email:factu@grn.es
+Tech ID:GR11-NIC
+Tech Name:Jordi Brugera i Cortada
+Tech Organization:GRN Serveis Telematics, SL
+Tech Street1:P1. Assumpcio, 35 17005 Girona
+Tech Street2:
+Tech Street3:
+Tech City:N/A
+Tech State/Province:
+Tech Postal Code:N/A
+Tech Country:ES
+Tech Phone:+34.34972230000
+Tech Phone Ext.:
+Tech FAX:+34.34972401185
+Tech FAX Ext.:
+Tech Email:admin@grn.es
+Name Server:DNS1.GRN.ES
+Name Server:DNS2.GRN.ES
+Name Server:OMEGA.CHI.ES
+Name Server: 
+Name Server: 
+Name Server: 
+Name Server: 
+Name Server: 
+Name Server: 
+Name Server: 
+Name Server: 
+Name Server: 
+Name Server: 
+

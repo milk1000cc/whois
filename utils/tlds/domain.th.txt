@@ -1,0 +1,64 @@
+
+Whois Server Version 1.5
+
+
+domain:       GOOGLE.CO.TH
+descr:        Service & Trader ( TM )
+company:      Google Inc.
+address:      2400 Bayshore Parkway
+city:         Mountain Veiw, CA
+zcode:        94043
+country:      US
+admin-c:      RH13-TH
+tech-c:       AM58-TH
+billing-c:    MB32-TH
+nserver:      ns1.google.com
+nserver:      ns2.google.com
+nserver:      ns3.google.com
+nserver:      ns4.google.com
+mnt-by:       THNIC-DBM
+created:      thnic-dbm@thnic.net 041007
+changed:      thnic-dbm@thnic.net 041021
+source:       THNIC
+
+
+person:       Rose Hagan
+company:      Google Inc.
+address:      2400 Bayshore Parkway
+city:         Mountain Veiw, CA
+zcode:        94043
+country:      US
+nic-hdl:      RH13-TH
+notify:       thnic-dbm@thnic.net
+changed:      thnic-dbm@thnic.net 041021
+source:       THNIC
+
+
+person:       Alexander MacGillivray
+company:      Google Inc.
+address:      1600 Amphitheatre Parkway,
+address:      Building 41, Mountain View,
+address:      CA 94043, U.S.A.
+city:         California
+zcode:        94043
+country:      US
+nic-hdl:      AM58-TH
+notify:       thnic-dbm@thnic.net
+changed:      thnic-dbm@thnic.net 041007
+source:       THNIC
+
+
+person:       MarkMonitor Billing
+company:      MarkMonitor
+address:      10400 Overland Road PMB 155
+address:      Boise, ID 83709
+city:         Boise, ID
+zcode:        83709
+country:      US
+nic-hdl:      MB32-TH
+notify:       thnic-dbm@thnic.net
+changed:      thnic-dbm@thnic.net 070418
+source:       THNIC
+
+
+

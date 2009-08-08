@@ -1,0 +1,4 @@
+Error:
+google.ms is not a domain controlled by AdamsNames.
+
+Details --- the MS registry is now managed by MNI Networks / CoCCA.

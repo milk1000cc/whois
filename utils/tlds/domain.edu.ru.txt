@@ -1,0 +1,31 @@
+
+
+domain:	school.edu.ru
+descr: Institute of new technologies
+descr: 50, Mytnaya str.
+descr: 115162 Moscow
+descr: Russia
+admin-c: Vitaly V Gnidchin
+zone-c: Vitaly V Gnidchin
+tech-c: Vitaly V Gnidchin
+nserver: ns.caravan.ru 217.23.130.1
+nserver: ns2.caravan.ru 217.23.142.1
+sub-dom: www
+changed: support@int-com.ru 060822
+source: RIIS
+
+person: Vitaly V Gnidchin
+address: Institute of new technologies
+address: 50, Mytnaya str.
+address: 115162 Moscow
+address: Russia
+phone: +7 495 2212645 ext 221
+phone: +7 495 2239145 ext 221
+fax-no: +7 495 2379109
+e-mail: support@int-com.ru
+changed: support@int-com.ru 060822
+
+
+%  All information about edu.ru domain can be found at
+%  http://www.informika.ru/text/centre/edu.ru
+

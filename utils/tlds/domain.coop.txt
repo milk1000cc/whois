@@ -1,0 +1,126 @@
+.coop registry WHOIS server
+
+For help on using this server use "?" (without the quotes).
+For more .coop information browse to http://www.coop
+
+The domain records that match "co-operative.coop" are listed below.
+
+--------------------------------------------------------------------------------
+
+Domain ID:               61667D-COOP
+Domain Name:             co-operative.coop
+Expiry Date:             19 Apr 2010 18:57:35 UTC
+Domain Status:           ok
+Sponsoring registrar:    domains.coop
+Sponsoring registrar ID: 465
+Created by:              domains.coop
+Created by ID:           465
+Last updated by:         domains.coop
+Last updated by ID:      465
+Created:                 19 Apr 2006 18:57:35 UTC
+Last updated:            07 Apr 2009 12:31:38 UTC
+Last transferred:        
+
+Contact Type:            registrant
+Contact ID:              61666C-COOP
+Name:                    Ben Rieveley
+Organisation:            The Co-operative Group
+Street 1:                PO Box 53
+Street 2:                New Century House
+Street 3:                
+City:                    Manchester
+State/Province:          Manchester(Cityof)
+Postal code:             M60 4ES
+Country:                 United Kingdom
+Voice:                   +44.1612462678
+Voice extn:              
+Fax:                     +44.1618331035
+Fax extn:                
+Email:                   ben.rieveley@co-operative.coop
+
+Contact Type:            admin
+Contact ID:              48626C-COOP
+Name:                    Brian Welsby
+Organisation:            the Co operative Group
+Street 1:                Cad-Capture Limited
+Street 2:                Greenbank Technology Park, Challenge Way
+Street 3:                
+City:                    Blackburn
+State/Province:          Lancashire
+Postal code:             BB1 5RR
+Country:                 United Kingdom
+Voice:                   +44.1254504400
+Voice extn:              
+Fax:                     +44.1254504401
+Fax extn:                
+Email:                   accounts@airtime.co.uk
+
+Contact Type:            billing
+Contact ID:              48626C-COOP
+Name:                    Brian Welsby
+Organisation:            the Co operative Group
+Street 1:                Cad-Capture Limited
+Street 2:                Greenbank Technology Park, Challenge Way
+Street 3:                
+City:                    Blackburn
+State/Province:          Lancashire
+Postal code:             BB1 5RR
+Country:                 United Kingdom
+Voice:                   +44.1254504400
+Voice extn:              
+Fax:                     +44.1254504401
+Fax extn:                
+Email:                   accounts@airtime.co.uk
+
+Contact Type:            tech
+Contact ID:              48626C-COOP
+Name:                    Brian Welsby
+Organisation:            the Co operative Group
+Street 1:                Cad-Capture Limited
+Street 2:                Greenbank Technology Park, Challenge Way
+Street 3:                
+City:                    Blackburn
+State/Province:          Lancashire
+Postal code:             BB1 5RR
+Country:                 United Kingdom
+Voice:                   +44.1254504400
+Voice extn:              
+Fax:                     +44.1254504401
+Fax extn:                
+Email:                   accounts@airtime.co.uk
+
+Host ID:                 8764H-COOP
+Host Name:               ns0.airtime.co.uk
+
+Host ID:                 8765H-COOP
+Host Name:               ns1.airtime.co.uk
+
+Host ID:                 8804H-COOP
+Host Name:               neon.airtime.co.uk
+
+--------------------------------------------------------------------------------
+
+The .coop registry WHOIS database provides information for .coop registered
+names only. Although every effort is made to maintain the accuracy of the WHOIS
+data, accuracy cannot be guaranteed.
+
+This service is intended only for query-based access. You agree that you will
+use this data only for lawful purposes and that, under no circumstances will you
+use this data to: (a) allow, enable, or otherwise support the transmission by
+e-mail, telephone, or facsimile of mass unsolicited, commercial advertising or
+solicitations to entities other than the data recipient's own existing
+customers; or (b) enable high volume, automated, electronic processes that send
+queries or data to the systems of Registry Operator or any ICANN-Accredited
+Registrar, except as reasonably necessary to register domain names or modify
+existing registrations. The compilation, repackaging, dissemination or other use
+of this Data is expressly prohibited without the prior written consent of
+dotCoop. All rights reserved. dotCoop reserves the right to modify these terms
+at any time. By submitting this query, you agree to abide by this policy.
+
+BY USING THE WHOIS SERVICE AND THE DATA CONTAINED HEREIN OR IN ANY REPORT
+GENERATED WITH RESPECT THERETO, IT IS ACCEPTED THAT DOTCOOP IS NOT LIABLE FOR
+ANY DAMAGES OF ANY KIND ARISING OUT OF, OR IN CONNECTION WITH, THE REPORT OR THE
+INFORMATION PROVIDED BY THE WHOIS SERVICE, NOR OMISSIONS OR MISSING INFORMATION.
+THE RESULTS OF ANY WHOIS REPORT OR INFORMATION PROVIDED BY THE WHOIS SERVICE
+CANNOT BE RELIED UPON IN CONTEMPLATION OF LEGAL PROCEEDINGS WITHOUT FURTHER
+VERIFICATION, NOR DO SUCH RESULTS CONSTITUTE A LEGAL OPINION.

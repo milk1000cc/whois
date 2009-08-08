@@ -1,0 +1,77 @@
+whois server for ccTLD .kp
+(c) 2007 - 2008 KCC Europe GmbH Berlin
+#########################################################################
+# All data copyright of the organization unit running this server!
+# By querying this server, you agree that you :
+#	-may use this data only for lawful purposes;
+#	-will not re-use data for any kind of support
+#	  for the transmission of unsolicited advertising
+#	  via e-mail, telephone, or facsimile;
+#	-will not reproduce and/or store any part of the data
+#	  without prior permission of the copyright holders;
+#	-are aware of and agree to the fact that all access to the
+#	  server is under constant monitoring and will be logged
+#	  for the purpose of prosecution in case of missuse!
+#########################################################################
+
+handle:        DMN37
+domain:        kcce.kp
+handle:        DMN37
+mntnr:         MNTNR1
+registration:  2008-07-18 13:56:00
+expire:        9999-07-18 13:56:00
+changed:       2008-10-08 12:03:38
+status:        active
+
+[holder]
+handle:        PRSN1
+mntnr:         MNTNR1
+persontype:    ORGANISATION
+name:          KCC Europe GmbH
+address:       Glinkastr. 5-7
+pcode:         10117
+country:       DE
+phone:         +49 30 747 774 90
+fax:           +49 30 747 774 91
+email:         domain@kcce.net
+changed:       2008-07-18 15:28:36
+
+[admin_c]
+handle:        PRSN1
+mntnr:         MNTNR1
+persontype:    ORGANISATION
+name:          KCC Europe GmbH
+address:       Glinkastr. 5-7
+pcode:         10117
+country:       DE
+phone:         +49 30 747 774 90
+fax:           +49 30 747 774 91
+email:         domain@kcce.net
+changed:       2008-07-18 15:28:36
+
+[tech_c]
+handle:        PRSN1
+mntnr:         MNTNR1
+persontype:    ORGANISATION
+name:          KCC Europe GmbH
+address:       Glinkastr. 5-7
+pcode:         10117
+country:       DE
+phone:         +49 30 747 774 90
+fax:           +49 30 747 774 91
+email:         domain@kcce.net
+changed:       2008-07-18 15:28:36
+
+[zone_c]
+handle:        PRSN1
+mntnr:         MNTNR1
+persontype:    ORGANISATION
+name:          KCC Europe GmbH
+address:       Glinkastr. 5-7
+pcode:         10117
+country:       DE
+phone:         +49 30 747 774 90
+fax:           +49 30 747 774 91
+email:         domain@kcce.net
+changed:       2008-07-18 15:28:36
+

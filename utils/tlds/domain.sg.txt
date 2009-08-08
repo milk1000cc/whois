@@ -1,0 +1,92 @@
+
+----------------------------------------------------------------------  
+ SGNIC WHOIS Server
+---------------------------------------------------------------------- 
+
+The following data is provided for information purposes only.
+
+Registrar:   IP MIRROR PTE LTD 
+Registrant:  GOOGLE INC.
+
+
+    Domain Name:		GOOGLE.SG
+    Creation Date:		03-Jan-2005 12:00:00
+    Expiration Date:		03-Jan-2010 00:00:00
+    Domain Status:		OK
+
+
+    Owner/Main Contact:
+
+        Name:           GOOGLE INC. (SGNIC-ORGGO162314)        
+        Registered Address(line1):	1600 Amphitheatre Parkway
+        Registered Address(line2):	
+        Registered Address(line3):	Mountain View, CA
+        Registered State:		
+        Registered Country:		US
+        Registered Postalcode:		94043
+
+
+
+    Administrative Contact:
+          
+        Name:           IP MIRROR PTE. LTD. (SGNIC-ORGIP60218)        
+        Registered Address(line1):	47 Duxton Road
+        Registered Address(line2):	IP Mirror TechHaus
+        Registered Address(line3):	Singapore
+        Registered State:		
+        Registered Country:		SG
+        Registered Postalcode:		089511
+
+
+
+    Technical Contact:
+        
+        Name:           GOOGLE INC. (SGNIC-ORGGO162314)        
+        Registered Address(line1):	1600 Amphitheatre Parkway
+        Registered Address(line2):	
+        Registered Address(line3):	Mountain View, CA
+        Registered State:		
+        Registered Country:		US
+        Registered Postalcode:		94043
+
+        Telephone:			1.650.33300100
+        Facsimile:			1.650.6188571  
+        EMAIL:				dns-admin@google.com
+
+
+
+    Billing Contact:
+          
+        Name:           MARKMONITOR (SGNIC-ORGMA142607)        
+        Registered Address(line1):	PMB 155
+        Registered Address(line2):	10400 Overland Road
+        Registered Address(line3): 	Boise, ID
+        Registered State:		
+        Registered Country:		US
+        Registered Postalcode:		83709
+
+
+
+    Name Servers:
+        NS1.GOOGLE.COM
+        NS2.GOOGLE.COM
+        NS3.GOOGLE.COM
+        NS4.GOOGLE.COM
+
+
+         
+
+Note: With immediate effect from 1 Jun 2005 email address and phone numbers for Registrant, Administrative Contact and Billing 
+Contact will not be shown in the above WHOIS results. This move is in-line with national and global efforts to curb SPAM.
+
+Technical Contact details will still be available for troubleshooting of technical problems which may be time-sensitive.
+
+Any party who has legitimate reason to obtain email address or phone numbers of the domain name contacts can either (1) obtain the 
+contacts from the domain name's website (usually by prepending 'www.' in front of the domain name or perform an Internet search 
+using the organization name or; (2) Request the information from SGNIC via email (dnq@sgnic.sg), stating the reasons.
+
+
+
+
+
+

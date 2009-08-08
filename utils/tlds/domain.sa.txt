@@ -1,0 +1,16 @@
+% SaudiNIC Whois server.
+% Rights restricted by copyright.
+% http://www.nic.net.sa/tools/copyright.php
+
+domain:		saudinic.net.sa
+organization:	Saudi Network Information Center (SaudiNIC) - CITC
+address:	Riyadh
+address:	Saudi Arabia
+admin-c:	ZOMAN-SA
+tech-c:		SAMI-SA
+reg-c:		MSA-SA
+nserver:	ns1.nic.net.sa
+nserver:	ns2.nic.net.sa
+req-date:	1999-05-26
+reg-date:	1999-05-26
+source:		SaudiNIC

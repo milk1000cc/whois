@@ -1,0 +1,57 @@
+% This is the Ukrainian Whois query server #I.
+% Rights restricted by copyright.
+%
+
+
+% % .UA whois
+% Domain Record:
+% =============
+domain:     google.ua
+admin-c:    GOGL-UANIC
+tech-c:     DMNS-UANIC
+status:     FROZEN-OK-UNTIL 20090404142225
+dom-public: NO
+license:    60594
+nserver:    ns1.domen.ua
+nserver:    ns2.domen.ua
+mnt-by:     DMNS-UANIC (ua.domen-ua)
+remark:     
+changed:    DMNS-UANIC 20080408144027
+source:     UANIC
+
+
+% Administrative Contact:
+% ======================
+nic-handle:     GOGL-UANIC
+organization:   ТОВ "ГОУ ОГЛЕ"
+address:        оф. 18, Круглоун╕верситетська, буд. 2/1
+address:        01103 М. КИ╥В
+address:        UA
+phone:          +380 (44) 233-11-99
+e-mail:         support@domen.ua
+org-id:         N/A
+mnt-by:         NONE
+changed:        GOGL-UANIC 20090422115632
+source:         UANIC
+
+% Technical Contact:
+% =================
+nic-handle:     DMNS-UANIC
+organization:   Solovyov Valentin
+organization:   ФЛП Соловьйов Валентин Вячеславович
+organization:   ФОП Солов'йов Валентин В'ячеславович
+address:        Solovyov V.V., Postbox, N 44
+address:        03187 KIEV
+address:        UA
+phone:          +380 (44) 2331199
+e-mail:         hostmaster@domen.ua
+url:            http://www.domen.ua/
+org-id:         N/A
+mnt-by:         NONE
+changed:        HOST-UANIC 20070830010603
+source:         UANIC
+
+
+% % .UA whois
+
+

@@ -1,0 +1,85 @@
+% puntCAT Whois Server Copyright (C) 2007 Fundacio puntCAT
+%
+% NOTICE: Access to puntCAT Whois information is provided to assist in
+% determining the contents of an object name registration record in the
+% puntCAT database. The data in this record is provided by puntCAT for
+% informational purposes only, and puntCAT does not guarantee its
+% accuracy. This service is intended only for query-based access. You
+% agree that you will use this data only for lawful purposes and that,
+% under no circumstances will you use this data to: (a) allow, enable,
+% or otherwise support the transmission by e-mail, telephone or
+% facsimile of unsolicited, commercial advertising or solicitations; or
+% (b) enable automated, electronic processes that send queries or data
+% to the systems of puntCAT or registry operators, except as reasonably
+% necessary to register object names or modify existing registrations.
+% All rights reserved. puntCAT reserves the right to modify these terms at
+% any time. By submitting this query, you agree to abide by this policy.
+%
+Domain ID: REG-D61735
+Domain Name: domini.cat
+Domain Name ACE: domini.cat
+Domain Language: ca
+Registrar ID: R-906 (puntCAT Administrative Account)
+Created On: 2006-05-05 15:16:41 GMT
+Last Updated On: 2009-06-19 16:36:37 GMT
+Expiration Date: 2010-05-05 15:16:41 GMT
+Maintainer: Fundacio puntCAT
+Status: ok
+Registrant ID: C-PUNTCAT
+Registrant Name: Fundacio puntCAT
+Registrant Organization: Fundacio puntCAT
+Registrant Street: Carme, 47
+Registrant City: Barcelona
+Registrant State/Province: Catalunya
+Registrant Postal Code: 08001
+Registrant Country: ES
+Registrant Phone: +34.93
+Registrant Phone Ext: 
+Registrant Fax: +34.934672959
+Registrant Fax Ext: 
+Registrant Email: info@domini.cat
+Admin ID: C-PUNTCAT
+Admin Name: Fundacio puntCAT
+Admin Organization: Fundacio puntCAT
+Admin Street: Carme, 47
+Admin City: Barcelona
+Admin State/Province: Catalunya
+Admin Postal Code: 08001
+Admin Country: ES
+Admin Phone: +34.93
+Admin Phone Ext: 
+Admin Fax: +34.934672959
+Admin Fax Ext: 
+Admin Email: info@domini.cat
+Tech ID: C-CORE
+Tech Name: Werner Staub
+Tech Organization: CORE Internet Council of Registrars
+Tech Street: World Trade Center II
+Tech Street: 9, route de Pre-Bois
+Tech City: Geneva
+Tech State/Province: 
+Tech Postal Code: 1215
+Tech Country: CH
+Tech Phone: 
+Tech Phone Ext: 
+Tech Fax: +41.229295745
+Tech Fax Ext: 
+Tech Email: 
+Billing ID: C-PUNTCAT
+Billing Name: Fundacio puntCAT
+Billing Organization: Fundacio puntCAT
+Billing Street: Carme, 47
+Billing City: Barcelona
+Billing State/Province: Catalunya
+Billing Postal Code: 08001
+Billing Country: ES
+Billing Phone: +34.93
+Billing Phone Ext: 
+Billing Fax: +34.934672959
+Billing Fax Ext: 
+Billing Email: info@domini.cat
+Name Server: ns8.knipp.net 
+Name Server ACE: ns8.knipp.net 
+Name Server: ns4.knipp.de 
+Name Server ACE: ns4.knipp.de 
+

@@ -1,0 +1,37 @@
+This is the IRNIC Whois server.
+
+Note: this output has been filtered.
+
+Information related to 'nic.ir'
+
+domain:		nic.ir
+remarks:	(Domain Holder)  .IR ccTLD Registry, Institute for Studies in Theoretical Physics & Mathematics (IPM)
+remarks:	(Domain Holder Address) Shahid Azar Mina, 5 Mehran Alley Pasdaran Avenue, Kuhestan 9 P.O.Box 19395-1795 Tehran, IR 19589, , , IR
+admin-c:	ss57-irnic
+tech-c:		as51-irnic
+zone-c:		ss57-irnic
+nserver:	ns1.nic.ir
+nserver:	ns.nic.ir
+nserver:	ns5.univie.ac.at
+nserver:	auth51.ns.uu.net
+source:		IRNIC # Filtered
+
+person:		Alireza Saleh
+remarks:	---
+address:	IPM-IRNIC Niavaran Square., Tehran, Tehran, IR
+e-mail:		arsaleh@gmail.com
+phone:		+98 21 2282 8080
+fax-no:		+98 21 2229 5700
+nic-hdl:	as51-irnic
+source:		IRNIC # Filtered
+
+person:		Siavash Shahshahani
+remarks:	---
+address:	IRNIC-IPM, Shahid Bahonar Sq., Tehran, Tehran, IR
+e-mail:		shahshah@nic.ir
+phone:		22828080
+fax-no:		22295700
+nic-hdl:	ss57-irnic
+source:		IRNIC # Filtered
+
+

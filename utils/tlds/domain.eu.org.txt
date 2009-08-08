@@ -1,0 +1,29 @@
+domain:      BEST.EU.ORG
+address:     Board of European Students of Technology
+address:     BEST-Coimbra
+address:     A.E.U.C Grupo BEST
+address:     Apartado 3012
+address:     3000 Coimbra Codex
+address:     Portugal
+changed:     2000-04-10 00:00:00+02:00
+tech-c:      JJ16-FREE
+admin-c:     SB21-FREE
+
+person:      Jakub Jermak
+nic-hdl:     JJ16-FREE
+address:     ul Kujawska 2
+address:     44-100 Gliwice
+address:     Poland
+phone:       +48 32 237 23 97
+e-mail:      jermak@ondraszek.ds.polsl.gliwice.pl
+changed:     2001-10-02 00:00:00+02:00
+
+person:      Stefan Baebler
+nic-hdl:     SB21-FREE
+address:     Scopolijeva   17
+address:     1000  Ljubljana
+address:     Slovenia
+phone:       +386 61 552909
+e-mail:      stefan.baebler@gmail.com
+changed:     2006-04-25 00:00:00+02:00
+

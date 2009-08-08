@@ -1,0 +1,28 @@
+Registrant:
+   bit.ly
+   John Borthwick
+   416 West 13th Street
+   New York
+   NY
+   United States
+   Zip/Postal code: 10014
+   Phone: 212 566 67
+   Service@Borthwick.com
+
+Domain Name:   bit.ly
+
+Created: 2008-05-18 14:50:12
+Updated: 2008-05-19 16:43:02
+Expired: 2010-05-18 14:50:12
+
+Domain servers in listed order:
+   ns18.zoneedit.com
+   ns3.zoneedit.com
+
+Domain Status: ACTIVE
+--
+Whois information provided by:
+LY Registry
+whois.nic.ly
+-For Whois usage policy please check:
+ http://whois.nic.ly/policy.php

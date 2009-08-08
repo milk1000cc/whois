@@ -1,0 +1,40 @@
+
+domain:      wrm.org.uy
+descr:       Fundacion Movimiento Mundial por los Bosques Tropicales
+admin-c:     JCA1-UYNIC
+tech-c:      VV10-UYNIC
+zone-c:      MC13-UYNIC
+nserver:     paul.montevideo.com.uy 200.40.50.174
+nserver:     pete.montevideo.com.uy 200.40.50.144
+changed:     dns-adm@seciu.edu.uy 20050303
+source:      UYNIC
+
+person:      Juan Carlos Alonso
+address:     Chucarro 1110 ap 5 - Montevideo,  Uruguay
+phone:       +598 2  7074252
+e-mail:      dominios@tecnet.com.uy
+nic-hdl:     JCA1-UYNIC
+remarks:     F-  Mon May 24 14:12:40 1999
+remarks:     RT- gandhi.edu.uy
+changed:     dominios@tecnet.com.uy 20090615
+source:      UYNIC
+
+person:      Vìctor Villar
+address:     Bulevar Artigas 1081
+phone:       +598 2 4022416
+fax-no:      +598 2 4022110
+e-mail:      victor@montevideo.com.uy
+nic-hdl:     VV10-UYNIC
+changed:     victor@montevideo.com.uy 20010806
+source:      UYNIC
+
+person:      Marisa Casamayor
+address:     Br. Artigas 1081
+phone:       +598 2 402 25 16
+fax-no:      +598 2 402 25 16
+e-mail:      dominios@montevideo.com.uy
+nic-hdl:     MC13-UYNIC
+changed:     dominios@montevideo.com.uy 20070903
+source:      UYNIC
+
+

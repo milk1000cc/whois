@@ -1,0 +1,17 @@
+
+**************************************************
+*       The UG ccTLD Registry Database           *
+**************************************************
+
+domain:      google.ug
+descr:        Web Portal Company providing Internet Search and Webmail in Every country
+admin-c:     
+tech-c:      
+zone-c:      
+nserver:     ns1.google.com
+nserver:     ns2.google.com
+nserver:     ns3.google.com
+mnt-by:      MAINT-UG
+changed:     hostmaster@cfi.co.ug 2009-05-
+source:      UG
+
