@@ -84,6 +84,7 @@ module Whois
     end
     
     # Delegates to ==.
+    #
     # @see Whois::Answer#==
     def eql?(other)
       self == other
@@ -156,7 +157,10 @@ module Whois
 
     # Returns <tt>true</tt> if the <tt>property</tt> passed as symbol
     # is supported by any available parser for this answer.
-    # See also <tt>Whois::Answer::Parser.supported?</tt>.
+    #
+    # @param  [Symbol] property the name of the property to check
+    # @return [Boolean] if <tt>property</tt> is supported by any available parser for this <tt>Answer</tt>.
+    # @see    Whois::Answer::Parser.property_supported?
     def property_supported?(property)
       parser.property_supported?(property)
     end
