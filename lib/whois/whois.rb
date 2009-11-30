@@ -33,15 +33,14 @@ module Whois
   end
 
 
-  # This class exists to ensure this GEM is compatible
-  # with the original Ruby Whois release 0.4.2
-  # developed by Cyril Mougel.
+  # This class exists to ensure this compatibility
+  # with the original Whois Gem (<= 0.4.2) developed by Cyril Mougel.
   #
-  # It exposes the same Ruby WHOIS 0.4.2 interface
+  # It exposes the same Whois 0.4.2 interface
   # and echoes deprecation warning for all those features
   # that are going to be removed in a next version.
   #
-  # Here's a standard Ruby WHOIS 0.4.2 example usage.
+  # Here's a standard Whois 0.4.2 example usage.
   #
   #   w = Whois::Whois.new '72.14.207.99'
   #   w.search_whois
@@ -64,6 +63,9 @@ module Whois
   #
   #   Whois.query '72.14.207.99'
   #   # => whois answer
+  #
+  # @deprecated Use {Whois::Client} or {Whois.query} instead.
+  # @see        Whois::Client#query
   #
   class Whois # :nodoc
 

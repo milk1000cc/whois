@@ -63,7 +63,7 @@ module Whois
     # and returns the <tt>MatchData</tt> or <tt>nil</tt>.
     #
     # @param  [String, Regexp] pattern the pattern to match against
-    # @return [MatchData, NilClass] the MatchData if <tt>content</tt> matches <tt>pattern</tt>, <tt>nil</tt> otherwise
+    # @return [MatchData, nil] the MatchData if <tt>content</tt> matches <tt>pattern</tt>, <tt>nil</tt> otherwise
     # @see    Whois::Answer#content
     # @see    Whois::Answer#match?
     # @see    String#match
