@@ -130,17 +130,17 @@ Off course, you can customize the timeout value setting a different value. If ti
 
 == Acknowledgments
 
-First of all, I would like to express my most sincere thanks to Cyril Mougel, the author of the first Ruby Whois GEM that has been available since 2007. Cyril has been kind enough to yield me the privilege of using the RubyForge Whois project and the Whois package name to publish this library.
-To express all my gratitude, the Release 0.5.0 of the new Ruby Whois is 100% compatible with Cyril's Whois (as of release 0.4.2).
+First of all, I would like to express my most sincere thanks to Cyril Mougel, the author of the first Ruby Whois Gem that has been available since 2007. Cyril has been kind enough to yield me the privilege of using the RubyForge Whois project and the Whois package name to publish this library.
+To express all my gratitude, the Release 0.5.0 of the new Whois is 100% compatible with Cyril's Whois (as of release 0.4.2).
 
-Whois is largely inspired by other notable Whois projects, most of all the Debian Whois library written and mainained by Marco D'Itri. Other good ideas and design decisions come from the PERL Net::DRI package.
+Whois is largely inspired by other notable WHOIS projects, most of all the Debian Whois library written and maintained by Marco D'Itri. Other good ideas and design decisions come from the PERL Net::DRI package.
 
-I would lie if I say I'm completely unaware of the other Ruby Whois projects. Before starting this Ruby Whois library I deeply investigated the available resources and, despite none of them was a good candidate for a refactoring, some of them expose a really cool API.
+I would lie if I say I'm completely unaware of the other Ruby WHOIS projects. Before starting this Ruby WHOIS library I deeply investigated the available resources and, despite none of them was a good candidate for a refactoring, some of them expose a really cool API.
 They didn't directly influence this library or any design decision, but they have been a really interesting code-reading.
 
-The parser architecture (yet to come) has been inspired by the PHPWhois[http://phpwhois.sourceforge.net/] project. The authors puts lot of effort to create whois-specific parsers normalizing the different responses in a single tree-based structure. So far, this is the only one opensource project that offers such this feature in all the programming language ecosystem.
+The parser architecture (yet to come) has been inspired by the PHPWhois[http://www.phpwhois.com] project. The authors puts lot of effort to create WHOIS-specific parsers normalizing the different responses in a single tree-based structure. So far, this is the only one open-source project that offers such this feature in all the programming language ecosystem.
 
-Despite I spent weeks reading source code from the available whois libraries, Ruby Whois has been built from scratch trying to focus on long-term maintainability and flexibility and cannot be considered a Ruby port of any of other existing Whois libraries.
+Despite I spent weeks reading source code from the available WHOIS libraries, Ruby Whois has been built from scratch trying to focus on long-term maintainability and flexibility and cannot be considered a Ruby port of any of other existing Whois libraries.
 
 
 == Notice for users of Whois 0.4 (or previous version)
