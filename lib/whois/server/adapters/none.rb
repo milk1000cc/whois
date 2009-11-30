@@ -36,8 +36,8 @@ module Whois
         
         # Always raises a <tt>Whois::NoInterfaceError</tt> exception.
         #
-        # ==== Raises
-        # NoInterfaceError:: for every request
+        # @param  [String] qstring the query string
+        # @raise  [NoInterfaceError] for every request
         #
         def request(qstring)
           raise NoInterfaceError, "This `#{type}' has no whois server"

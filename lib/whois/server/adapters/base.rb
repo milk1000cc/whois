@@ -21,7 +21,12 @@ require 'whois/answer'
 module Whois
   class Server
     module Adapters
-      
+
+      #
+      # = Abstract Base Server Adapter
+      #
+      # @abstract Override this class to implement a custom server adapter.
+      #
       class Base
 
         # Default Whois request port.
@@ -41,11 +46,14 @@ module Whois
         end
 
         # Performs a Whois query for <tt>qstring</tt> 
-        # using current server adapter and returns a <tt>Whois::Response</tt>
+        # using current server adapter and returns a <tt>Whois::Answer</tt>
         # instance with the result of the request.
         #
-        # server.query("google.com")
-        # # => Whois::Response
+        #   server.query("google.com")
+        #   # => Whois::Answer
+        #
+        # @param  [String] qstring the query string
+        # @return [Whois::Answer] the answer returned by the WHOIS server(s) 
         #
         def query(qstring)
           with_buffer do |buffer|
@@ -54,6 +62,13 @@ module Whois
           end
         end
 
+        # Handles the WHOIS request.
+        #
+        # @abstract This method should implement the logic that sends
+        #   the socket request with the WHOIS query and appends
+        #   all the responses to the answer stack.
+        # @param  [String] qstring the query string
+        #
         def request(qstring)
           raise NotImplementedError
         end

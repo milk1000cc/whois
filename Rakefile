@@ -37,6 +37,15 @@ Echoe.new(PKG_NAME, PKG_VERSION) do |p|
   p.rcov_options  = ["-Itest -x mocha,rcov,Rakefile"]
 end
 
+begin
+  require 'yard'
+  YARD::Rake::YardocTask.new do |t|
+    t.options = ["-o", "yardoc"]
+  end
+rescue LoadError
+  puts "Yard is not available"
+end
+
 
 desc "Open an irb session preloaded with this library"
 task :console do

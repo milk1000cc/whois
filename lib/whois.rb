@@ -29,21 +29,6 @@ module Whois
   AUTHORS         = ['Simone Carletti <weppos@weppos.net>']
 
 
-  # Queries the right whois server for <tt>qstring</tt> and returns
-  # a <tt>Whois::Answer</tt> instance containing the response from the server.
-  #
-  #   Whois.query("google.com")
-  #   # => #<Whois::Answer>
-  #
-  # This is equivalent to
-  #
-  #   Whois::Client.new.query("google.com")
-  #   # => #<Whois::Answer>
-  #
-  def self.whois(qstring)
-    query(qstring)
-  end
-
   # Returns <tt>true</tt> whether <tt>qstring</tt> is available.
   # <tt>qstring</tt> is intended to be a domain name,
   # otherwise this method may return unexpected responses.
@@ -59,6 +44,10 @@ module Whois
   # and the method will return <tt>nil</tt>.
   # This is a technical limitation. Browse the lib/whois/answer/parsers folder
   # to view all available parsers.
+  #
+  # @param  [String] qstring the query string
+  # @return [Boolean] +true+ if the queried object is available for registration,
+  #                   +false+ otherwise.
   #
   def self.available?(qstring)
     query(qstring).available?
@@ -84,6 +73,10 @@ module Whois
   # This is a technical limitation. Browse the lib/whois/answer/parsers folder
   # to view all available parsers.
   #
+  # @param  [String] qstring the query string
+  # @return [Boolean] +true+ if the queried object is registered,
+  #                   +false+ otherwise.
+  #
   def self.registered?(qstring)
     query(qstring).registered?
   rescue ParserNotFound => e
@@ -92,10 +85,28 @@ module Whois
     nil
   end
 
-
-  # See Whois#whois.
+  # Queries the right whois server for <tt>qstring</tt> and returns
+  # a <tt>Whois::Answer</tt> instance containing the response from the server.
+  #
+  #   Whois.query("google.com")
+  #   # => #<Whois::Answer>
+  #
+  # This is equivalent to
+  #
+  #   Whois::Client.new.query("google.com")
+  #   # => #<Whois::Answer>
+  #
+  # @param  [String] qstring the query string
+  # @return [Whois::Answer] the answer returned by the WHOIS server
+  # @see    Whois::Client#query
+  #
   def self.query(qstring)
     Client.new.query(qstring)
+  end
+
+  # @see Whois#query
+  def self.whois(qstring)
+    query(qstring)
   end
 
 

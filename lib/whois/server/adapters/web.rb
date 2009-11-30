@@ -32,8 +32,8 @@ module Whois
         # Always raises a <tt>Whois::WebInterfaceError</tt> exception
         # including the web address for the WHOIS inteface.
         #
-        # ==== Raises
-        # WebInterfaceError:: for every request
+        # @param  [String] qstring the query string
+        # @raise  [WebInterfaceError] for every request
         #
         def request(qstring)
           raise WebInterfaceError,  "This TLD has no whois server, " +
