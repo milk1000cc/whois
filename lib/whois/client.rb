@@ -20,6 +20,12 @@ require 'timeout'
 
 module Whois
 
+  #
+  # = Client
+  #
+  # The client is responsible for querying WHOIS servers,
+  # checking the response and returning a <tt>Whois::Answer</tt>.
+  #
   class Client
 
     # The maximum time to run a WHOIS query expressed in seconds
@@ -28,7 +34,7 @@ module Whois
     attr_accessor :timeout
 
 
-    # Initializes a new Whois::Client with <tt>options</tt>.
+    # Initializes a new client with <tt>options</tt>.
     # 
     # If block is given, yields self.
     # 
@@ -39,9 +45,9 @@ module Whois
     #
     # @param  [Hash] options the options to create a <tt>Client</tt> with.
     # @option options [Float] :timeout (DEFAULT_TIMEOUT) The maximum time to run a WHOIS query expressed in seconds
-    # @return Whois::Client a new client with given <tt>options</tt>
+    # @return [Client] a new client with given <tt>options</tt>
     # @yield  [self] a block to perform any extra initialization on the object
-    # @yieldparam [Whois::Client] self the newly initialized client object
+    # @yieldparam [Client] self the newly initialized client object
     #
     def initialize(options = {}, &block)
       self.timeout = options[:timeout] || DEFAULT_TIMEOUT
@@ -73,7 +79,7 @@ module Whois
     #   # => #<Whois::Answer>
     #
     # @param  [String] qstring the query string
-    # @return [Whois::Answer] the answer returned by the WHOIS server
+    # @return [Answer] the answer returned by the WHOIS server
     #
     def query(qstring)
       Timeout::timeout(timeout) do
