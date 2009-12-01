@@ -32,12 +32,38 @@ module Whois
         # Default Whois request port.
         DEFAULT_WHOIS_PORT = 43
 
+        # The type of WHOIS server to define.
+        # Allowed values are :tld, :ipv4, :ipv6
+        # @return [Symbol]
         attr_reader :type
+
+        # The adapter allocation, for example the TLD or the IP range.
+        # @return [String] range or hostname this server is responsible for
         attr_reader :allocation
+
+        # The WHOIS server hostname
+        # @return [String]
         attr_reader :host
+
+        # Additional options to customize adapter behavior.
+        # @return [Hash]
         attr_reader :options
+
+        # Internal response buffer.
+        # @return [Array<Whois::Answer::Part>]
         attr_reader :buffer
 
+
+        # Initializes a new Adapter.
+        #
+        # This method should never be called directly because this is an abstract class.
+        # Use child classes instead.
+        #
+        # @param  [Symbol]
+        # @param  [String]
+        # @param  [String]
+        # @param  [Hash<Symbol => Object>]
+        # @see    Whois::Server.define
         def initialize(type, allocation, host, options = {})
           @type       = type
           @allocation = allocation

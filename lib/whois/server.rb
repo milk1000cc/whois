@@ -64,18 +64,6 @@ module Whois
 
     # Defines a new server for <tt>:type</tt> queries.
     #
-    # == Parameters
-    #
-    # type::
-    #   The type of whois server to define. 
-    #   Allowed values are :tld, :ipv4, :ipv6.
-    # allocation::
-    #   The allocation, range or hostname this server is responsible for.
-    # host::
-    #   The server hostname.
-    # options::
-    #   Additional options to customize Adpter behavior.
-    #
     #   # Define a server for the .it extension
     #   Whois::Server.define :tld, ".it", "whois.nic.it"
     #   # Define a new server for an range of IPv4 addresses
@@ -83,11 +71,11 @@ module Whois
     #   # Define a new server for an range of IPv6 addresses
     #   Whois::Server.define :ipv6, "2001:2000::/19", "whois.ripe.net"
     #
-    # @param  [Symbol] type the type of whois server to define.
+    # @param  [Symbol] type the type of WHOIS server to define.
     #         Allowed values are :tld, :ipv4, :ipv6.
     # @param  [String] allocation the allocation, range or hostname this server is responsible for
     # @param  [String] host the server hostname
-    # @param  [Hash<Symbol => Object>] options
+    # @param  [Hash<Symbol => Object>] options additional options to customize adapter behavior
     def self.define(type, allocation, host, options = {})
       @@definitions[type] ||= []
       @@definitions[type] <<  [allocation, host, options]
