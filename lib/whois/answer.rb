@@ -156,7 +156,7 @@ module Whois
     end
 
     # Returns <tt>true</tt> if the <tt>property</tt> passed as symbol
-    # is supported by any available parser for this answer.
+    # is supported by any available parser for this <tt>Answer</tt>.
     #
     # @param  [Symbol] property the name of the property to check
     # @return [Boolean] if <tt>property</tt> is supported by any available parser for this <tt>Answer</tt>.

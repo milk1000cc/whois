@@ -21,26 +21,26 @@ module Whois
   class Answer
 
     #
-    # = Contacts
+    # = Contact
     #
     # Holds the details of a Contact extracted from the WHOIS answer.
     #
     # A Contact is composed by the following attributes:
     #
-    # <tt>:id</tt>::
-    # <tt>:name</tt>::
-    # <tt>:organization</tt>::
-    # <tt>:address</tt>::
-    # <tt>:city</tt>::
-    # <tt>:zip</tt>::
-    # <tt>:state</tt>::
-    # <tt>:country</tt>::
-    # <tt>:country_code</tt>::
-    # <tt>:phone</tt>::
-    # <tt>:fax</tt>::
-    # <tt>:email</tt>::
-    # <tt>:created_on</tt>::
-    # <tt>:updated_on</tt>::
+    # * <tt>:id</tt>
+    # * <tt>:name</tt>
+    # * <tt>:organization</tt>
+    # * <tt>:address</tt>
+    # * <tt>:city</tt>
+    # * <tt>:zip</tt>
+    # * <tt>:state</tt>
+    # * <tt>:country</tt>
+    # * <tt>:country_code</tt>
+    # * <tt>:phone</tt>
+    # * <tt>:fax</tt>
+    # * <tt>:email</tt>
+    # * <tt>:created_on</tt>
+    # * <tt>:updated_on</tt>
     #
     # Be aware that every WHOIS server can return a different number of details
     # or no details at all.

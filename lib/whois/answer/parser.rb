@@ -35,13 +35,17 @@ module Whois
       # Returns an array containing the name of all properties
       # that can be registered and should be implemented by
       # server-specific parsers.
+      #
+      # @return [Array<Symbol>]
       def self.properties
         @@properties
       end
 
+      # @return [Whois::Answer] the parent <tt>Answer</tt>
       attr_reader :answer
 
 
+      # @param  [Whois::Answer] the parent <tt>Answer</tt>
       def initialize(answer)
         @answer = answer
       end
@@ -49,17 +53,24 @@ module Whois
       # Returns an array with all host-specific parsers initialized for the parts
       # contained into this parser.
       # The array is lazy-initialized.
+      #
+      # @return [Array<Whois::Answer::Parser::Base>]
+      # @see    Whois::Answer::Parser#init_parsers
       def parsers
         @parsers ||= init_parsers
       end
 
       # Returns <tt>true</tt> if the <tt>property</tt> passed as symbol
       # is supported by any available parser.
-      # See also <tt>Whois::Answer::Parser::Base.supported?</tt>.
+      #
+      # @param  [Symbol] property the name of the property to check
+      # @return [Boolean] if <tt>property</tt> is supported by any available parser
+      # @see    Whois::Answer::Parser::Base.property_supported?
       def property_supported?(property)
         parsers.any? { |parser| parser.property_supported?(property) }
       end
-      
+
+      # @deprecated Use {#property_supported?} instead.
       def supported?(*args)
         ::Whois.deprecate "supported? is deprecated. Use property_supported? instead."
         property_supported?(*args)
@@ -94,6 +105,8 @@ module Whois
         #   parser.parsers
         #   # => [parser(whois.bar.com), parser(whois.foo.com)]
         #
+        # @return [Array<Whois::Answer::Parser::Base>]
+        # @see    Whois::Answer::Parser#parsers
         def init_parsers
           answer.parts.reverse.map { |part| self.class.parser_for(part) }
         end
