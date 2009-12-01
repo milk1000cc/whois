@@ -41,7 +41,7 @@ module Whois
 
     # Returns the active definition list.
     # If <tt>type</tt>, returns only the definitions matching given type or
-    # nil if no definition exists.
+    # <tt>nil</tt> if no definition exists.
     #
     #   Whois::Server.definitions
     #   # => { :tld => [...], :ipv4 => [], ... }
@@ -50,6 +50,10 @@ module Whois
     #   Whois::Server.definitions(:invalid)
     #   # => nil
     #
+    # @param  [nil, Symbol] type the type of definitions to return
+    # @return [Hash, Array, nil] the <tt>definitions</tt> Hash if <tt>type</tt> if <tt>nil</tt>,
+    #         the Array of items in the definition for <tt>type</tt> if <tt>type</tt>,
+    #         <tt>nil</tt> otherwise.
     def self.definitions(type = nil)
       if type.nil?
         @@definitions
@@ -72,8 +76,6 @@ module Whois
     # options::
     #   Additional options to customize Adpter behavior.
     #
-    # ==== Examples
-    #
     #   # Define a server for the .it extension
     #   Whois::Server.define :tld, ".it", "whois.nic.it"
     #   # Define a new server for an range of IPv4 addresses
@@ -81,6 +83,11 @@ module Whois
     #   # Define a new server for an range of IPv6 addresses
     #   Whois::Server.define :ipv6, "2001:2000::/19", "whois.ripe.net"
     #
+    # @param  [Symbol] type the type of whois server to define.
+    #         Allowed values are :tld, :ipv4, :ipv6.
+    # @param  [String] allocation the allocation, range or hostname this server is responsible for
+    # @param  [String] host the server hostname
+    # @param  [Hash<Symbol => Object>] options
     def self.define(type, allocation, host, options = {})
       @@definitions[type] ||= []
       @@definitions[type] <<  [allocation, host, options]
@@ -89,20 +96,27 @@ module Whois
     # Creates a new server adapter from given arguments
     # and returns the server instance.
     #
-    # By default returns a new Whois::Servers::Adapter::Standard instance.
-    # You can customize the behavior passing a custom adapter class as :adapter option.
+    # By default returns a new <tt>Whois::Servers::Adapter::Standard</tt> instance.
+    # You can customize the behavior passing a custom adapter class as <tt>:adapter</tt> option.
     #
     #   Whois::Server.factory :tld, ".it", "whois.nic.it"
     #   # => #<Whois::Servers::Adapter::Standard>
     #   Whois::Server.factory :tld, ".it", "whois.nic.it", :option => Whois::Servers::Adapter::Custom
     #   # => #<Whois::Servers::Adapter::Custom>
     #
+    # @param  [Symbol] type the type of whois server to define.
+    #         Allowed values are :tld, :ipv4, :ipv6.
+    # @param  [String] allocation the allocation, range or hostname this server is responsible for
+    # @param  [String] host the server hostname
+    # @param  [Hash<Symbol => Object>] options
+    # @option options [Symbol] :adapter (nil) the adapter class or <tt>nil</tt> for the default class
+    # @return [Whois::Server::Adapters::Base]
     def self.factory(type, allocation, host, options = {})
       options = options.dup
       (options.delete(:adapter) || Adapters::Standard).new(type, allocation, host, options)
     end
-    
-    
+
+
     # Parses <tt>qstring</tt> and tries to guess the right server.
     #
     # It successfully detects the following query types:
@@ -111,11 +125,11 @@ module Whois
     # * top level domains
     # * emails
     #
-    # ==== Raises
-    #
-    # ServerNotFound::
-    #   When unable to find an appropriate whois server for <tt>qstring</tt>.
-    #
+    # @param  [String] qstring the query string
+    # @return [Whois::Server::Adapters::Base] the WHOIS server adapter for <tt>qstring</tt>
+    # @raise  [Whois::ServerNotFound] when unable to find an appropriate whois server for <tt>qstring</tt>
+    # @raise  [Whois::ServerNotSupported] when <tt>qstring</tt> is not a supported object
+    # @raise  [Whois::AllocationUnknown] when <tt>qstring</tt> is an IP but the allocation is not in a known range
     def self.guess(qstring)
       # IPv6 address (secure match)
       if valid_ipv6?(qstring)

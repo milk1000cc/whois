@@ -28,9 +28,11 @@ module Whois
   #
   class Client
 
-    # The maximum time to run a WHOIS query expressed in seconds
+    # The default value for query timeout
     DEFAULT_TIMEOUT = 5
 
+    # The maximum time to run a WHOIS query expressed in seconds.
+    # @return [Integer]
     attr_accessor :timeout
 
 
